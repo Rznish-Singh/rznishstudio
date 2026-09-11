@@ -13,7 +13,7 @@ export const siteConfig = {
     { title: "projects", href: "/projects/concerts" },
     { title: "Stories", href: "/projects/stories" },
     { title: "lifestyle", href: "/projects/studio" },
-    { title: "nature", href: "/projects/travels" },
+    // { title: "nature", href: "/projects/travels" },
     { title: "Blog", href: "/blog" },
     { title: "About", href: "/about" },
     { title: "Contact", href: "/contact" },

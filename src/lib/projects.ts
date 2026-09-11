@@ -184,6 +184,19 @@ export const concertArtists: ProjectItem[] = [
      
       ],
   },
+
+  {
+    slug: "papon",
+    title: "Papon",
+    cover: "https://res.cloudinary.com/dy4xybzrn/image/upload/v1789107280/2_xc2lxx.webp",
+    category: "concerts",
+    gallery: [
+      { type: "image", src: "https://res.cloudinary.com/dy4xybzrn/image/upload/v1789107280/3_uovhae.webp", alt: "papon" },
+      { type: "image", src: "https://res.cloudinary.com/dy4xybzrn/image/upload/v1789107280/1_ca8mgv.webp", alt: "papon" },
+      { type: "image", src: "https://res.cloudinary.com/dy4xybzrn/image/upload/v1789107280/4_smtvbz.webp", alt: "papon" },
+  
+      ],
+  },
   
  ];
 
@@ -214,12 +227,12 @@ export const travelShoots: MediaItem[] = [
 ];
 
 export const studioShoots: MediaItem[] = [
-  { type: "image", src: "https://loremflickr.com/1000/1250/photostudio,portrait?lock=201", alt: "Studio portrait, controlled lighting" },
-  { type: "image", src: "https://loremflickr.com/1000/1250/photostudio,fashion?lock=202", alt: "Studio fashion composite" },
-  { type: "image", src: "https://loremflickr.com/1000/1250/photostudio,product?lock=203", alt: "Studio product shot" },
-  { type: "image", src: "https://loremflickr.com/1000/1250/photostudio,blackandwhite?lock=204", alt: "Studio black-and-white portrait" },
-  { type: "image", src: "https://loremflickr.com/1000/1250/photostudio,model?lock=205", alt: "Studio set, model" },
-  { type: "image", src: "https://loremflickr.com/1000/1250/photostudio,light?lock=206", alt: "Studio lighting setup" },
+  { type: "image", src: "https://res.cloudinary.com/dy4xybzrn/image/upload/v1789106958/4_cmectv.webp", alt: "lifestyle" },
+  { type: "image", src: "https://res.cloudinary.com/dy4xybzrn/image/upload/v1789106958/5_rhax6v.webp", alt: "Studio fashion composite" },
+  { type: "image", src: "https://res.cloudinary.com/dy4xybzrn/image/upload/v1789106958/3_psb6kt.webp", alt: "Studio product shot" },
+  { type: "image", src: "https://res.cloudinary.com/dy4xybzrn/image/upload/v1789106958/2_jhk5dv.webp", alt: "Studio black-and-white portrait" },
+  { type: "image", src: "https://res.cloudinary.com/dy4xybzrn/image/upload/v1789106958/1_fttk8f.webp", alt: "Studio set, model" },
+ 
 ];
 
 /** Background image behind the homepage hero heading. */
